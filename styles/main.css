@@ -19,6 +19,7 @@
 
 .movie__poster {
     max-width: 10rem;
+    object-fit: contain;
 }
 
 .movie__details {
