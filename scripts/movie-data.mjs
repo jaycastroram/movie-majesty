@@ -6,8 +6,7 @@ export const movies = [
     },
     {
         title: "The Matrix",
-         poster: "https://image.tmdb.org/t/p/original/309gy3jIti5UDEPGiisNpRDv6Pa.jpg",
-        poster: "",
+        poster: "https://image.tmdb.org/t/p/original/309gy3jIti5UDEPGiisNpRDv6Pa.jpg",
         description: "A computer hacker learns the true nature of his reality and his role in the war against the controllers of it."
     },
     {
@@ -26,3 +25,4 @@ export const movies = [
         description: "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
     }
  ];
+ 
